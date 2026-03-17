@@ -4,10 +4,13 @@ Parallel resistor calculator
 Written in Rust
 
 Usage: parallelresist.exe --target-resistance <TARGET_RESISTANCE> --target-wattage <TARGET_WATTAGE> --individual-wattage <INDIVIDUAL_WATTAGE> --file-path <FILE_PATH>
+
 Usage: parallelresist.exe -r <TARGET_RESISTANCE> -w <TARGET_WATTAGE> -i <INDIVIDUAL_WATTAGE> -f <FILE_PATH>
 
 Example:
+
 $ parallelresist.exe  -r 1234 -w 3 -i 1 -f inventory.txt 
+
 Target: 1234Ω (0.0008103727714748784S), Min Resistors: 3 
 Checking combinations of exactly 3 resistors...          
 Checking combinations of exactly 4 resistors...          
