@@ -1,0 +1,2 @@
+# parallelresist
+Parallel resistor calculator
