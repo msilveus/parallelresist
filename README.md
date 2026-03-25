@@ -1,5 +1,5 @@
 # parallelresist
-Parallel resistor calculator
+<a href="https://github.com/msilveus/parallelresist">Parallel resistor calculator</a>
 
 Written in Rust
 
